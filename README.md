@@ -7,13 +7,13 @@ Learn to touch-type Arabic on the keyboard you already own, no Arabic keycaps ne
 ![Lesson view](screenshots/lesson.png)
 
 ## Features
-- 30 progressive lessons, from the home row to full paragraphs (70 more on the way)
-- On-screen Arabic keyboard that lights up the next key, with bilingual keycaps
+- 100 progressive lessons, from the home row to news, literature and master challenges
+- On-screen Arabic keyboard that lights up the next key and adapts to your layout (Apple Arabic, Arabic – PC, Persian, Urdu…)
 - Proper right-to-left typing with correctly joined Arabic letters
 - Two-line focus view, or expand to see the whole passage
 - Free Type mode, plus Race, Hangman and Sayings & Proverbs games
-- Progress overview, achievement badges, and kid / teen / adult themes
-- Interface in Arabic, English and German (French and Spanish coming soon)
+- Stats (accuracy, speed, streak, key accuracy, history), 22 trophies, and kid / teen / adult themes
+- Interface in Arabic, English, French, German and Spanish
 
 ![Home screen](screenshots/home.png)
 
